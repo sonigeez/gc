@@ -30,5 +30,5 @@ gc [OPTIONS]
 
 
 ## Format of String
-<!-- comment with folder path relative to current working directory -->
-<!-- content of file -->
+comment with folder path relative to current working directory
+content of file
